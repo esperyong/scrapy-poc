@@ -27,3 +27,5 @@ lib/
 logs/
 *installed.cfg
 venv
+dbs
+*.rdb
